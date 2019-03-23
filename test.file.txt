@@ -1,3 +1,6 @@
 
 This is a simple test file.  Initial version.
 
+Hmm - now it follows the guideline.  Why didn't it before?
+Do I have to clone here to get it to work?
+
